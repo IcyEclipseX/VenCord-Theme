@@ -1,11 +1,7 @@
 /**
  * @name BlueGlaives
  * @author Eclipse
- * @version 6.3.0
  * @description Theme for VenCord
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite 7pNUC9C
  * @BDEditor Glaives
 */
 
@@ -63,7 +59,7 @@
   --idle-color: #faa61a;
   --dnd-color: #982929;
   --streaming-color: #593695;
-  --offline-color: #808080;
+  --offline-color: #000000;
   --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
@@ -98,7 +94,3 @@
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
 }
-
-/* Any custom CSS below here */
-
-
